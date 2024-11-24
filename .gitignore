@@ -1,0 +1,38 @@
+## Git Ignore Files  ##
+
+# Dependencies
+/node_modules
+
+# Client Production Build 
+/dist
+
+# Other Folders
+/Dev
+
+# Git Folder
+.git
+
+# OS Waste File
+*.DS_Store
+
+# Testing
+/coverage
+
+# Vercel
+.vercel
+
+# VSCode 
+.vscode
+
+# Logs
+/logs
+*.log
+
+# Typescript 
+*.tsbuildinfo
+
+# Local Files
+*.local
+
+# Husky 
+.husky
